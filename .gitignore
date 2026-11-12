@@ -4,3 +4,4 @@ doc_build/
 dist/
 .DS_Store
 *.log
+distilled/
