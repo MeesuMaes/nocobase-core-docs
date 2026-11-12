@@ -3,8 +3,17 @@
 NocoBase 3 官方文档 **Core 章节** 的简体中文镜像，已清洗成可检索、可构建的文档集，基于 [Rspress](https://rspress.dev/) 构建。
 
 - 原文：https://docs.nocobase.com/zh-CN/core/
-- 规模：**134 篇 / 约 67.5 万字符**，8 大分组
+- 规模：**134 篇 / 约 67.5 万字符**，7 大分组
 - 在线：https://meesumaes.github.io/nocobase-core-docs/
+
+## 给 LLM 用
+
+| 入口 | 说明 |
+| --- | --- |
+| [`/llms.txt`](https://meesumaes.github.io/nocobase-core-docs/llms.txt) | 文档地图：按「分组 → 子分组 → 文档」列出全部 134 篇，每条含一句话摘要 + 该页 `.md` 直链 |
+| [`/llms-full.txt`](https://meesumaes.github.io/nocobase-core-docs/llms-full.txt) | 全量正文单文件 |
+| [`/map`](https://meesumaes.github.io/nocobase-core-docs/map) | 站内可浏览的文档地图页 |
+| `/{route}.md` | 任一页面追加 `.md` 即为该页纯 markdown |
 
 ## 为什么单独建仓
 

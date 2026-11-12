@@ -90,6 +90,7 @@ def main():
                 items.append({"text": sub, "collapsed": True, "items": leaves})
         sb.append({"text": g, "collapsed": False, "items": items})
     if root_items:
+        root_items.append({"text": "文档地图", "link": "/map"})
         sb.insert(0, {"text": "开始", "collapsed": False, "items": root_items})
     json.dump(sb, open(os.path.join(ROOT, "sidebar.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
@@ -109,6 +110,57 @@ def main():
         subn = "、".join(k for k in subs if k != "—") or "—"
         lines.append(f"| {g} | {subn} | {cnt} |")
     open(os.path.join(DOCS, "index.md"), "w", encoding="utf-8").write(esc("\n".join(lines)) + "\n")
+
+    # 文档地图：maptree.json（供 llms.txt 生成）+ docs/map.md（站内可见页）
+    def brief(path, limit=100):
+        """取正文第一段作摘要"""
+        txt = open(os.path.join(SRC, path), encoding="utf-8").read()
+        in_code = False
+        for line in txt.split("\n"):
+            s = line.strip()
+            if s.startswith("```"):
+                in_code = not in_code
+                continue
+            if in_code or not s:
+                continue
+            if s.startswith(("#", ">", "|", "<!--", "---", "!", "[")):
+                continue
+            s = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s)   # 链接->文字
+            s = re.sub(r"[`*]", "", s)
+            return s if len(s) <= limit else s[:limit].rstrip() + "…"
+        return ""
+
+    tree = []
+    for g, subs in groups.items():
+        node = {"group": g, "sections": []}
+        for sub, docs in subs.items():
+            node["sections"].append({
+                "name": None if sub == "—" else sub,
+                "docs": [{"title": d["title"], "route": link(d), "src": d["path"],
+                          "brief": brief(d["path"]), "chars": d["chars"]} for d in docs],
+            })
+        tree.append(node)
+    json.dump(tree, open(os.path.join(ROOT, "maptree.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+
+    M = ["# 文档地图", "",
+         f"> 共 {len(m)} 篇 · {len([g for g in groups if g != '（根）'])} 个分组 · "
+         f"约 {sum(i['chars'] for i in m):,} 字符", "",
+         "机器可读版：[llms.txt](https://meesumaes.github.io/nocobase-core-docs/llms.txt) ｜ "
+         "全量正文：[llms-full.txt](https://meesumaes.github.io/nocobase-core-docs/llms-full.txt) ｜ "
+         f"官方原文：[{BASE}/zh-CN/core/]({BASE}/zh-CN/core/)", ""]
+    for node in tree:
+        if node["group"] == "（根）":
+            continue
+        cnt = sum(len(s["docs"]) for s in node["sections"])
+        M += [f"## {node['group']}（{cnt}）", ""]
+        for sec in node["sections"]:
+            if sec["name"]:
+                M += [f"### {sec['name']}", ""]
+            for d in sec["docs"]:
+                M.append(f"- [{d['title']}]({d['route']})：{d['brief']}")
+            M.append("")
+    open(os.path.join(DOCS, "map.md"), "w", encoding="utf-8").write(esc("\n".join(M)) + "\n")
 
     print(f"pages={len(m)} groups={len(sb)}")
 
