@@ -1,0 +1,688 @@
+[
+ {
+  "text": "开始",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "NocoBase Core",
+    "link": "/"
+   }
+  ]
+ },
+ {
+  "text": "开发应用",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "应用开发概览",
+    "link": "/developing-apps/overview"
+   },
+   {
+    "text": "项目结构",
+    "link": "/developing-apps/project-structure"
+   },
+   {
+    "text": "应用配置（config.yml）",
+    "link": "/developing-apps/configuration-and-settings"
+   },
+   {
+    "text": "测试",
+    "link": "/developing-apps/testing-and-acceptance"
+   },
+   {
+    "text": "客户端",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "页面、路由与导航",
+      "link": "/developing-apps/pages-routes-and-navigation"
+     },
+     {
+      "text": "UI 组件与交互",
+      "link": "/developing-apps/pages-and-interactions"
+     },
+     {
+      "text": "数据请求与状态管理",
+      "link": "/developing-apps/data-requests-and-state"
+     },
+     {
+      "text": "页面布局",
+      "link": "/developing-apps/page-layouts"
+     },
+     {
+      "text": "多语言",
+      "link": "/developing-apps/localization"
+     },
+     {
+      "text": "主题与样式",
+      "link": "/developing-apps/themes-and-styles"
+     },
+     {
+      "text": "客户端服务",
+      "link": "/developing-apps/client-business-services"
+     }
+    ]
+   },
+   {
+    "text": "服务端",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "HTTP 路由与接口",
+      "link": "/developing-apps/apis-and-services"
+     },
+     {
+      "text": "服务端服务",
+      "link": "/developing-apps/server-business-services"
+     },
+     {
+      "text": "请求校验与错误处理",
+      "link": "/developing-apps/request-validation-and-errors"
+     },
+     {
+      "text": "认证、权限与数据范围",
+      "link": "/developing-apps/authentication-and-permissions"
+     },
+     {
+      "text": "后台任务与定时执行",
+      "link": "/developing-apps/background-tasks"
+     },
+     {
+      "text": "工作流",
+      "link": "/developing-apps/business-workflows"
+     },
+     {
+      "text": "服务端多语言",
+      "link": "/developing-apps/server-localization"
+     }
+    ]
+   },
+   {
+    "text": "数据库",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "建表与数据初始化",
+      "link": "/developing-apps/data-models-and-migrations"
+     },
+     {
+      "text": "查询与操作数据",
+      "link": "/developing-apps/querying-data"
+     },
+     {
+      "text": "事务与数据一致性",
+      "link": "/developing-apps/transactions-and-consistency"
+     },
+     {
+      "text": "多数据库连接",
+      "link": "/developing-apps/multiple-databases"
+     },
+     {
+      "text": "接入已有数据库",
+      "link": "/developing-apps/existing-databases"
+     }
+    ]
+   },
+   {
+    "text": "命令行",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "编写应用命令",
+      "link": "/developing-apps/application-commands"
+     },
+     {
+      "text": "接入插件命令",
+      "link": "/developing-apps/plugin-commands"
+     },
+     {
+      "text": "为应用提供 CLI 客户端",
+      "link": "/developing-apps/cli-client"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "text": "使用插件",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "插件使用概览",
+    "link": "/using-plugins/overview"
+   },
+   {
+    "text": "管理插件",
+    "link": "/developing-apps/manage-plugins"
+   },
+   {
+    "text": "数据库浏览",
+    "link": "/using-plugins/data-and-files/database-explorer"
+   },
+   {
+    "text": "文件",
+    "link": "/using-plugins/data-and-files/file-management"
+   },
+   {
+    "text": "邮件",
+    "link": "/using-plugins/notifications/mail"
+   },
+   {
+    "text": "Agents",
+    "link": "/using-plugins/agents-and-knowledge/agents"
+   },
+   {
+    "text": "知识库",
+    "link": "/using-plugins/agents-and-knowledge/knowledge"
+   },
+   {
+    "text": "审批",
+    "link": "/using-plugins/collaboration/approval"
+   },
+   {
+    "text": "定时任务",
+    "link": "/using-plugins/automation/scheduler"
+   },
+   {
+    "text": "模板打印",
+    "link": "/using-plugins/automation/template-print"
+   },
+   {
+    "text": "多语言",
+    "link": "/using-plugins/application-support/i18n"
+   },
+   {
+    "text": "应用底座",
+    "link": "/using-plugins/application-support/foundation"
+   },
+   {
+    "text": "用户与认证",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "用户管理",
+      "link": "/using-plugins/authentication/users"
+     },
+     {
+      "text": "身份认证",
+      "link": "/using-plugins/authentication/sign-in"
+     },
+     {
+      "text": "API 密钥",
+      "link": "/using-plugins/authentication/api-keys"
+     }
+    ]
+   },
+   {
+    "text": "权限与数据访问",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "权限管理",
+      "link": "/using-plugins/authorization/permissions"
+     },
+     {
+      "text": "默认数据范围",
+      "link": "/using-plugins/authorization/default-access"
+     },
+     {
+      "text": "共享规则",
+      "link": "/using-plugins/authorization/sharing-rules"
+     },
+     {
+      "text": "限制规则",
+      "link": "/using-plugins/authorization/restriction-rules"
+     }
+    ]
+   },
+   {
+    "text": "通知",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "通知",
+      "link": "/using-plugins/notifications/notification"
+     },
+     {
+      "text": "通知渠道",
+      "link": "/using-plugins/notifications/providers"
+     },
+     {
+      "text": "站内信",
+      "link": "/using-plugins/notifications/in-app"
+     },
+     {
+      "text": "浏览器推送",
+      "link": "/using-plugins/notifications/web-push"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "text": "开发插件",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "什么时候写插件",
+    "link": "/extension-development/when-to-write-a-plugin"
+   },
+   {
+    "text": "创建插件",
+    "link": "/extension-development/create-plugin"
+   },
+   {
+    "text": "插件结构",
+    "link": "/extension-development/plugin-structure"
+   },
+   {
+    "text": "插件开发指引（AGENTS.md）",
+    "link": "/extension-development/plugin-development-guidance"
+   },
+   {
+    "text": "编写第一个插件",
+    "link": "/extension-development/write-your-first-plugin"
+   },
+   {
+    "text": "插件声明与公开入口",
+    "link": "/extension-development/plugin-declarations"
+   },
+   {
+    "text": "数据库资源与迁移",
+    "link": "/extension-development/database-and-migrations"
+   },
+   {
+    "text": "命令行扩展",
+    "link": "/extension-development/extend-command-line"
+   },
+   {
+    "text": "插件 Skill",
+    "link": "/extension-development/write-plugin-skills"
+   },
+   {
+    "text": "测试与验证",
+    "link": "/extension-development/testing-and-verification"
+   },
+   {
+    "text": "构建与发布",
+    "link": "/extension-development/publish-plugin"
+   },
+   {
+    "text": "客户端",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "页面、路由与菜单",
+      "link": "/extension-development/pages-and-menus"
+     },
+     {
+      "text": "组件与样式",
+      "link": "/extension-development/frontend-components"
+     },
+     {
+      "text": "React Context 与 Provider",
+      "link": "/extension-development/react-context-and-providers"
+     },
+     {
+      "text": "客户端服务",
+      "link": "/extension-development/client-services"
+     },
+     {
+      "text": "客户端多语言",
+      "link": "/extension-development/localization"
+     }
+    ]
+   },
+   {
+    "text": "服务端",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "路由与 HTTP 接口",
+      "link": "/extension-development/server-apis"
+     },
+     {
+      "text": "业务服务与 ServiceProvider",
+      "link": "/extension-development/server-services"
+     },
+     {
+      "text": "后台任务与执行器",
+      "link": "/extension-development/background-jobs"
+     },
+     {
+      "text": "服务端多语言",
+      "link": "/extension-development/server-localization"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "text": "框架",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "框架概览",
+    "link": "/framework/overview"
+   },
+   {
+    "text": "缓存",
+    "link": "/framework/support/caching"
+   },
+   {
+    "text": "文件存储与驱动",
+    "link": "/framework/file-storage"
+   },
+   {
+    "text": "消息队列",
+    "link": "/framework/background/queues"
+   },
+   {
+    "text": "日志",
+    "link": "/framework/support/logging"
+   },
+   {
+    "text": "ID 生成",
+    "link": "/framework/support/ids"
+   },
+   {
+    "text": "运行时与扩展机制",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "客户端运行时",
+      "link": "/framework/runtime/client"
+     },
+     {
+      "text": "服务端运行时",
+      "link": "/framework/runtime/server"
+     },
+     {
+      "text": "命令行运行时",
+      "link": "/framework/runtime/cli"
+     },
+     {
+      "text": "应用启动与生命周期",
+      "link": "/framework/runtime/lifecycle"
+     },
+     {
+      "text": "插件加载与扩展",
+      "link": "/framework/runtime/plugins"
+     },
+     {
+      "text": "React Provider 的注册与挂载",
+      "link": "/framework/runtime/react-providers"
+     }
+    ]
+   },
+   {
+    "text": "服务容器与依赖注入",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "服务容器",
+      "link": "/framework/services/container"
+     },
+     {
+      "text": "服务契约与 Token",
+      "link": "/framework/services/tokens"
+     },
+     {
+      "text": "ServiceProvider 与服务生命周期",
+      "link": "/extension-development/service-provider"
+     },
+     {
+      "text": "前后端服务接入",
+      "link": "/framework/services/integration"
+     }
+    ]
+   },
+   {
+    "text": "HTTP 与 API",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "路由与请求上下文",
+      "link": "/framework/http/routes"
+     },
+     {
+      "text": "中间件",
+      "link": "/framework/http/middleware"
+     },
+     {
+      "text": "请求校验与响应处理",
+      "link": "/framework/http/validation"
+     },
+     {
+      "text": "Repository 数据接口",
+      "link": "/framework/http/repository-routes"
+     },
+     {
+      "text": "API Client",
+      "link": "/framework/http/api-client"
+     }
+    ]
+   },
+   {
+    "text": "数据库",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "数据库概览",
+      "link": "/framework/database/overview"
+     },
+     {
+      "text": "连接与数据库方言",
+      "link": "/framework/database/connections"
+     },
+     {
+      "text": "数据表与字段",
+      "link": "/framework/database/schema"
+     },
+     {
+      "text": "关系与关联",
+      "link": "/framework/database/relations"
+     },
+     {
+      "text": "Repository 与数据操作",
+      "link": "/framework/database/repositories"
+     },
+     {
+      "text": "过滤、排序与分页",
+      "link": "/framework/database/filtering-pagination"
+     },
+     {
+      "text": "关联查询",
+      "link": "/framework/database/association-queries"
+     },
+     {
+      "text": "聚合与统计",
+      "link": "/framework/database/aggregation"
+     },
+     {
+      "text": "事务",
+      "link": "/framework/database/transactions"
+     },
+     {
+      "text": "数据库迁移",
+      "link": "/framework/database/migrations"
+     },
+     {
+      "text": "初始数据",
+      "link": "/framework/database/seeds"
+     },
+     {
+      "text": "查询输入与构造器",
+      "link": "/framework/database/query-inputs"
+     }
+    ]
+   },
+   {
+    "text": "后台任务与调度",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "后台任务与执行器",
+      "link": "/framework/background/jobs"
+     },
+     {
+      "text": "周期调度",
+      "link": "/framework/background/scheduling"
+     }
+    ]
+   },
+   {
+    "text": "实时通信",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "实时消息与主题订阅",
+      "link": "/framework/realtime/topics"
+     },
+     {
+      "text": "WebSocket 协议与适配",
+      "link": "/framework/realtime/websocket"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "text": "应用架构",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "概览",
+    "link": "/architecture/overview"
+   },
+   {
+    "text": "多门户",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "创建多门户应用",
+      "link": "/architecture/multi-portal/create-app"
+     },
+     {
+      "text": "开发门户",
+      "link": "/architecture/multi-portal/develop"
+     },
+     {
+      "text": "门户访问与权限",
+      "link": "/architecture/multi-portal/access"
+     },
+     {
+      "text": "管理门户",
+      "link": "/architecture/multi-portal/manage"
+     }
+    ]
+   },
+   {
+    "text": "多应用",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "概述",
+      "link": "/architecture/multi-app/overview"
+     },
+     {
+      "text": "快速开始",
+      "link": "/architecture/multi-app/quickstart"
+     },
+     {
+      "text": "应用开发",
+      "link": "/architecture/multi-app/development"
+     },
+     {
+      "text": "管理模板与应用实例",
+      "link": "/architecture/multi-app/management"
+     },
+     {
+      "text": "统一登录与访问授权",
+      "link": "/architecture/multi-app/single-sign-on"
+     },
+     {
+      "text": "接入独立应用",
+      "link": "/architecture/multi-app/external-apps"
+     },
+     {
+      "text": "从单应用迁移",
+      "link": "/architecture/multi-app/migration"
+     },
+     {
+      "text": "部署与运维",
+      "link": "/architecture/multi-app/deployment"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "text": "部署与运维",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "选择部署方式",
+    "link": "/deployment/choose-a-deployment-method"
+   },
+   {
+    "text": "发布应用新版本",
+    "link": "/deployment/publish-app-release"
+   },
+   {
+    "text": "使用 Docker 部署",
+    "link": "/tutorials/deploy-with-docker"
+   },
+   {
+    "text": "使用 PM2 部署（app-installer）",
+    "link": "/tutorials/deploy-with-app-installer"
+   },
+   {
+    "text": "升级 NocoBase Core",
+    "link": "/developing-apps/upgrade-nocobase-core"
+   }
+  ]
+ },
+ {
+  "text": "参考",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "API 参考",
+    "link": "/reference/api"
+   },
+   {
+    "text": "命令行参考",
+    "link": "/reference/cli"
+   },
+   {
+    "text": "配置项参考",
+    "link": "/reference/configuration"
+   },
+   {
+    "text": "项目目录与文件约定",
+    "link": "/reference/project-conventions"
+   },
+   {
+    "text": "核心包与工具包索引",
+    "link": "/reference/packages"
+   },
+   {
+    "text": "插件索引",
+    "link": "/reference/plugins"
+   },
+   {
+    "text": "数据库支持与版本兼容",
+    "link": "/reference/compatibility"
+   },
+   {
+    "text": "使用不同数据库创建应用",
+    "link": "/reference/database-configuration"
+   },
+   {
+    "text": "常见问题",
+    "link": "/reference/faq"
+   }
+  ]
+ }
+]

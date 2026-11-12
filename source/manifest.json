@@ -1,0 +1,1780 @@
+[
+  {
+    "group": "",
+    "folders": [],
+    "title": "NocoBase Core",
+    "href": "/zh-CN/core/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/index.md",
+    "path": "core/index.md",
+    "bytes": 820,
+    "lines": 21,
+    "chars": 550,
+    "h1": "NocoBase Core"
+  },
+  {
+    "group": "开发应用",
+    "folders": [],
+    "title": "应用开发概览",
+    "href": "/zh-CN/core/developing-apps/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/overview.md",
+    "path": "core/developing-apps/overview.md",
+    "bytes": 3095,
+    "lines": 65,
+    "chars": 1717,
+    "h1": "应用开发概览"
+  },
+  {
+    "group": "开发应用",
+    "folders": [],
+    "title": "项目结构",
+    "href": "/zh-CN/core/developing-apps/project-structure/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/project-structure.md",
+    "path": "core/developing-apps/project-structure.md",
+    "bytes": 7645,
+    "lines": 122,
+    "chars": 4519,
+    "h1": "项目结构"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "页面、路由与导航",
+    "href": "/zh-CN/core/developing-apps/pages-routes-and-navigation/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/pages-routes-and-navigation.md",
+    "path": "core/developing-apps/pages-routes-and-navigation.md",
+    "bytes": 36137,
+    "lines": 717,
+    "chars": 25287,
+    "h1": "页面、路由与导航"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "UI 组件与交互",
+    "href": "/zh-CN/core/developing-apps/pages-and-interactions/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/pages-and-interactions.md",
+    "path": "core/developing-apps/pages-and-interactions.md",
+    "bytes": 20465,
+    "lines": 384,
+    "chars": 13909,
+    "h1": "UI 组件与交互"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "数据请求与状态管理",
+    "href": "/zh-CN/core/developing-apps/data-requests-and-state/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/data-requests-and-state.md",
+    "path": "core/developing-apps/data-requests-and-state.md",
+    "bytes": 22278,
+    "lines": 312,
+    "chars": 14236,
+    "h1": "数据请求与状态管理"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "页面布局",
+    "href": "/zh-CN/core/developing-apps/page-layouts/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/page-layouts.md",
+    "path": "core/developing-apps/page-layouts.md",
+    "bytes": 17689,
+    "lines": 333,
+    "chars": 11621,
+    "h1": "页面布局"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "多语言",
+    "href": "/zh-CN/core/developing-apps/localization/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/localization.md",
+    "path": "core/developing-apps/localization.md",
+    "bytes": 5230,
+    "lines": 101,
+    "chars": 2714,
+    "h1": "多语言"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "主题与样式",
+    "href": "/zh-CN/core/developing-apps/themes-and-styles/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/themes-and-styles.md",
+    "path": "core/developing-apps/themes-and-styles.md",
+    "bytes": 16537,
+    "lines": 319,
+    "chars": 10969,
+    "h1": "主题与样式"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "客户端"
+    ],
+    "title": "客户端服务",
+    "href": "/zh-CN/core/developing-apps/client-business-services/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/client-business-services.md",
+    "path": "core/developing-apps/client-business-services.md",
+    "bytes": 18529,
+    "lines": 354,
+    "chars": 13020,
+    "h1": "客户端服务"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "HTTP 路由与接口",
+    "href": "/zh-CN/core/developing-apps/apis-and-services/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/apis-and-services.md",
+    "path": "core/developing-apps/apis-and-services.md",
+    "bytes": 26051,
+    "lines": 441,
+    "chars": 17745,
+    "h1": "HTTP 路由与接口"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "服务端服务",
+    "href": "/zh-CN/core/developing-apps/server-business-services/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/server-business-services.md",
+    "path": "core/developing-apps/server-business-services.md",
+    "bytes": 21000,
+    "lines": 356,
+    "chars": 14052,
+    "h1": "服务端服务"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "请求校验与错误处理",
+    "href": "/zh-CN/core/developing-apps/request-validation-and-errors/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/request-validation-and-errors.md",
+    "path": "core/developing-apps/request-validation-and-errors.md",
+    "bytes": 19193,
+    "lines": 365,
+    "chars": 13125,
+    "h1": "请求校验与错误处理"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "认证、权限与数据范围",
+    "href": "/zh-CN/core/developing-apps/authentication-and-permissions/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/authentication-and-permissions.md",
+    "path": "core/developing-apps/authentication-and-permissions.md",
+    "bytes": 22498,
+    "lines": 408,
+    "chars": 15222,
+    "h1": "认证、权限与数据范围"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "后台任务与定时执行",
+    "href": "/zh-CN/core/developing-apps/background-tasks/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/background-tasks.md",
+    "path": "core/developing-apps/background-tasks.md",
+    "bytes": 20486,
+    "lines": 361,
+    "chars": 13588,
+    "h1": "后台任务与定时执行"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "工作流",
+    "href": "/zh-CN/core/developing-apps/business-workflows/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/business-workflows.md",
+    "path": "core/developing-apps/business-workflows.md",
+    "bytes": 15166,
+    "lines": 235,
+    "chars": 9594,
+    "h1": "工作流"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "服务端"
+    ],
+    "title": "服务端多语言",
+    "href": "/zh-CN/core/developing-apps/server-localization/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/server-localization.md",
+    "path": "core/developing-apps/server-localization.md",
+    "bytes": 15860,
+    "lines": 324,
+    "chars": 11388,
+    "h1": "服务端多语言"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "数据库"
+    ],
+    "title": "建表与数据初始化",
+    "href": "/zh-CN/core/developing-apps/data-models-and-migrations/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/data-models-and-migrations.md",
+    "path": "core/developing-apps/data-models-and-migrations.md",
+    "bytes": 9022,
+    "lines": 147,
+    "chars": 5934,
+    "h1": "建表与数据初始化"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "数据库"
+    ],
+    "title": "查询与操作数据",
+    "href": "/zh-CN/core/developing-apps/querying-data/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/querying-data.md",
+    "path": "core/developing-apps/querying-data.md",
+    "bytes": 8424,
+    "lines": 143,
+    "chars": 5074,
+    "h1": "查询与操作数据"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "数据库"
+    ],
+    "title": "事务与数据一致性",
+    "href": "/zh-CN/core/developing-apps/transactions-and-consistency/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/transactions-and-consistency.md",
+    "path": "core/developing-apps/transactions-and-consistency.md",
+    "bytes": 5025,
+    "lines": 66,
+    "chars": 2755,
+    "h1": "事务与数据一致性"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "数据库"
+    ],
+    "title": "多数据库连接",
+    "href": "/zh-CN/core/developing-apps/multiple-databases/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/multiple-databases.md",
+    "path": "core/developing-apps/multiple-databases.md",
+    "bytes": 5535,
+    "lines": 121,
+    "chars": 3547,
+    "h1": "多数据库连接"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "数据库"
+    ],
+    "title": "接入已有数据库",
+    "href": "/zh-CN/core/developing-apps/existing-databases/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/existing-databases.md",
+    "path": "core/developing-apps/existing-databases.md",
+    "bytes": 5564,
+    "lines": 126,
+    "chars": 3426,
+    "h1": "接入已有数据库"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "命令行"
+    ],
+    "title": "编写应用命令",
+    "href": "/zh-CN/core/developing-apps/application-commands/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/application-commands.md",
+    "path": "core/developing-apps/application-commands.md",
+    "bytes": 11439,
+    "lines": 209,
+    "chars": 7885,
+    "h1": "编写应用命令"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "命令行"
+    ],
+    "title": "接入插件命令",
+    "href": "/zh-CN/core/developing-apps/plugin-commands/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/plugin-commands.md",
+    "path": "core/developing-apps/plugin-commands.md",
+    "bytes": 5875,
+    "lines": 95,
+    "chars": 3573,
+    "h1": "接入插件命令"
+  },
+  {
+    "group": "开发应用",
+    "folders": [
+      "命令行"
+    ],
+    "title": "为应用提供 CLI 客户端",
+    "href": "/zh-CN/core/developing-apps/cli-client/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/cli-client.md",
+    "path": "core/developing-apps/cli-client.md",
+    "bytes": 8030,
+    "lines": 122,
+    "chars": 4714,
+    "h1": "为应用提供 CLI 客户端"
+  },
+  {
+    "group": "开发应用",
+    "folders": [],
+    "title": "应用配置（config.yml）",
+    "href": "/zh-CN/core/developing-apps/configuration-and-settings/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/configuration-and-settings.md",
+    "path": "core/developing-apps/configuration-and-settings.md",
+    "bytes": 14509,
+    "lines": 275,
+    "chars": 8771,
+    "h1": "应用配置（config.yml）"
+  },
+  {
+    "group": "开发应用",
+    "folders": [],
+    "title": "测试",
+    "href": "/zh-CN/core/developing-apps/testing-and-acceptance/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/testing-and-acceptance.md",
+    "path": "core/developing-apps/testing-and-acceptance.md",
+    "bytes": 32600,
+    "lines": 535,
+    "chars": 18642,
+    "h1": "测试"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "插件使用概览",
+    "href": "/zh-CN/core/using-plugins/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/overview.md",
+    "path": "core/using-plugins/overview.md",
+    "bytes": 5459,
+    "lines": 54,
+    "chars": 2907,
+    "h1": "插件使用概览"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "管理插件",
+    "href": "/zh-CN/core/developing-apps/manage-plugins/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/manage-plugins.md",
+    "path": "core/developing-apps/manage-plugins.md",
+    "bytes": 8263,
+    "lines": 119,
+    "chars": 3911,
+    "h1": "管理插件"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "用户与认证"
+    ],
+    "title": "用户管理",
+    "href": "/zh-CN/core/using-plugins/authentication/users/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authentication/users.md",
+    "path": "core/using-plugins/authentication/users.md",
+    "bytes": 5637,
+    "lines": 81,
+    "chars": 2651,
+    "h1": "用户管理"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "用户与认证"
+    ],
+    "title": "身份认证",
+    "href": "/zh-CN/core/using-plugins/authentication/sign-in/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authentication/sign-in.md",
+    "path": "core/using-plugins/authentication/sign-in.md",
+    "bytes": 5414,
+    "lines": 83,
+    "chars": 2640,
+    "h1": "身份认证"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "用户与认证"
+    ],
+    "title": "API 密钥",
+    "href": "/zh-CN/core/using-plugins/authentication/api-keys/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authentication/api-keys.md",
+    "path": "core/using-plugins/authentication/api-keys.md",
+    "bytes": 5040,
+    "lines": 85,
+    "chars": 2486,
+    "h1": "API 密钥"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "权限与数据访问"
+    ],
+    "title": "权限管理",
+    "href": "/zh-CN/core/using-plugins/authorization/permissions/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authorization/permissions.md",
+    "path": "core/using-plugins/authorization/permissions.md",
+    "bytes": 5141,
+    "lines": 84,
+    "chars": 2453,
+    "h1": "权限管理"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "权限与数据访问"
+    ],
+    "title": "默认数据范围",
+    "href": "/zh-CN/core/using-plugins/authorization/default-access/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authorization/default-access.md",
+    "path": "core/using-plugins/authorization/default-access.md",
+    "bytes": 4993,
+    "lines": 77,
+    "chars": 2381,
+    "h1": "默认数据范围"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "权限与数据访问"
+    ],
+    "title": "共享规则",
+    "href": "/zh-CN/core/using-plugins/authorization/sharing-rules/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authorization/sharing-rules.md",
+    "path": "core/using-plugins/authorization/sharing-rules.md",
+    "bytes": 4905,
+    "lines": 77,
+    "chars": 2351,
+    "h1": "共享规则"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "权限与数据访问"
+    ],
+    "title": "限制规则",
+    "href": "/zh-CN/core/using-plugins/authorization/restriction-rules/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/authorization/restriction-rules.md",
+    "path": "core/using-plugins/authorization/restriction-rules.md",
+    "bytes": 4934,
+    "lines": 77,
+    "chars": 2374,
+    "h1": "限制规则"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "数据库浏览",
+    "href": "/zh-CN/core/using-plugins/data-and-files/database-explorer/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/data-and-files/database-explorer.md",
+    "path": "core/using-plugins/data-and-files/database-explorer.md",
+    "bytes": 4769,
+    "lines": 78,
+    "chars": 2509,
+    "h1": "数据库浏览"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "文件",
+    "href": "/zh-CN/core/using-plugins/data-and-files/file-management/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/data-and-files/file-management.md",
+    "path": "core/using-plugins/data-and-files/file-management.md",
+    "bytes": 5508,
+    "lines": 83,
+    "chars": 2842,
+    "h1": "文件"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "通知"
+    ],
+    "title": "通知",
+    "href": "/zh-CN/core/using-plugins/notifications/notification/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/notifications/notification.md",
+    "path": "core/using-plugins/notifications/notification.md",
+    "bytes": 5189,
+    "lines": 85,
+    "chars": 2575,
+    "h1": "通知"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "通知"
+    ],
+    "title": "通知渠道",
+    "href": "/zh-CN/core/using-plugins/notifications/providers/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/notifications/providers.md",
+    "path": "core/using-plugins/notifications/providers.md",
+    "bytes": 4767,
+    "lines": 81,
+    "chars": 2567,
+    "h1": "通知渠道"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "通知"
+    ],
+    "title": "站内信",
+    "href": "/zh-CN/core/using-plugins/notifications/in-app/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/notifications/in-app.md",
+    "path": "core/using-plugins/notifications/in-app.md",
+    "bytes": 4686,
+    "lines": 83,
+    "chars": 2500,
+    "h1": "站内信"
+  },
+  {
+    "group": "使用插件",
+    "folders": [
+      "通知"
+    ],
+    "title": "浏览器推送",
+    "href": "/zh-CN/core/using-plugins/notifications/web-push/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/notifications/web-push.md",
+    "path": "core/using-plugins/notifications/web-push.md",
+    "bytes": 5137,
+    "lines": 86,
+    "chars": 2729,
+    "h1": "浏览器推送"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "邮件",
+    "href": "/zh-CN/core/using-plugins/notifications/mail/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/notifications/mail.md",
+    "path": "core/using-plugins/notifications/mail.md",
+    "bytes": 5558,
+    "lines": 87,
+    "chars": 2782,
+    "h1": "邮件"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "Agents",
+    "href": "/zh-CN/core/using-plugins/agents-and-knowledge/agents/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/agents-and-knowledge/agents.md",
+    "path": "core/using-plugins/agents-and-knowledge/agents.md",
+    "bytes": 20699,
+    "lines": 367,
+    "chars": 12013,
+    "h1": "Agents"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "知识库",
+    "href": "/zh-CN/core/using-plugins/agents-and-knowledge/knowledge/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/agents-and-knowledge/knowledge.md",
+    "path": "core/using-plugins/agents-and-knowledge/knowledge.md",
+    "bytes": 5596,
+    "lines": 85,
+    "chars": 2656,
+    "h1": "知识库"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "审批",
+    "href": "/zh-CN/core/using-plugins/collaboration/approval/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/collaboration/approval.md",
+    "path": "core/using-plugins/collaboration/approval.md",
+    "bytes": 5709,
+    "lines": 86,
+    "chars": 2537,
+    "h1": "审批"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "定时任务",
+    "href": "/zh-CN/core/using-plugins/automation/scheduler/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/automation/scheduler.md",
+    "path": "core/using-plugins/automation/scheduler.md",
+    "bytes": 5371,
+    "lines": 95,
+    "chars": 2863,
+    "h1": "定时任务"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "模板打印",
+    "href": "/zh-CN/core/using-plugins/automation/template-print/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/automation/template-print.md",
+    "path": "core/using-plugins/automation/template-print.md",
+    "bytes": 4375,
+    "lines": 72,
+    "chars": 2063,
+    "h1": "模板打印"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "多语言",
+    "href": "/zh-CN/core/using-plugins/application-support/i18n/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/application-support/i18n.md",
+    "path": "core/using-plugins/application-support/i18n.md",
+    "bytes": 4812,
+    "lines": 86,
+    "chars": 2386,
+    "h1": "多语言"
+  },
+  {
+    "group": "使用插件",
+    "folders": [],
+    "title": "应用底座",
+    "href": "/zh-CN/core/using-plugins/application-support/foundation/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/using-plugins/application-support/foundation.md",
+    "path": "core/using-plugins/application-support/foundation.md",
+    "bytes": 5353,
+    "lines": 84,
+    "chars": 2475,
+    "h1": "应用底座"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "什么时候写插件",
+    "href": "/zh-CN/core/extension-development/when-to-write-a-plugin/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/when-to-write-a-plugin.md",
+    "path": "core/extension-development/when-to-write-a-plugin.md",
+    "bytes": 4018,
+    "lines": 53,
+    "chars": 1798,
+    "h1": "什么时候写插件"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "创建插件",
+    "href": "/zh-CN/core/extension-development/create-plugin/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/create-plugin.md",
+    "path": "core/extension-development/create-plugin.md",
+    "bytes": 14587,
+    "lines": 220,
+    "chars": 8279,
+    "h1": "创建插件"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "插件结构",
+    "href": "/zh-CN/core/extension-development/plugin-structure/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/plugin-structure.md",
+    "path": "core/extension-development/plugin-structure.md",
+    "bytes": 18508,
+    "lines": 293,
+    "chars": 11444,
+    "h1": "插件结构"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "插件开发指引（AGENTS.md）",
+    "href": "/zh-CN/core/extension-development/plugin-development-guidance/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/plugin-development-guidance.md",
+    "path": "core/extension-development/plugin-development-guidance.md",
+    "bytes": 8983,
+    "lines": 149,
+    "chars": 5139,
+    "h1": "插件开发指引（AGENTS.md）"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "编写第一个插件",
+    "href": "/zh-CN/core/extension-development/write-your-first-plugin/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/write-your-first-plugin.md",
+    "path": "core/extension-development/write-your-first-plugin.md",
+    "bytes": 14810,
+    "lines": 417,
+    "chars": 11646,
+    "h1": "编写第一个插件"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "插件声明与公开入口",
+    "href": "/zh-CN/core/extension-development/plugin-declarations/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/plugin-declarations.md",
+    "path": "core/extension-development/plugin-declarations.md",
+    "bytes": 13642,
+    "lines": 234,
+    "chars": 8258,
+    "h1": "插件声明与公开入口"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "客户端"
+    ],
+    "title": "页面、路由与菜单",
+    "href": "/zh-CN/core/extension-development/pages-and-menus/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/pages-and-menus.md",
+    "path": "core/extension-development/pages-and-menus.md",
+    "bytes": 16073,
+    "lines": 420,
+    "chars": 12077,
+    "h1": "页面、路由与菜单"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "客户端"
+    ],
+    "title": "组件与样式",
+    "href": "/zh-CN/core/extension-development/frontend-components/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/frontend-components.md",
+    "path": "core/extension-development/frontend-components.md",
+    "bytes": 23882,
+    "lines": 407,
+    "chars": 14344,
+    "h1": "组件与样式"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "客户端"
+    ],
+    "title": "React Context 与 Provider",
+    "href": "/zh-CN/core/extension-development/react-context-and-providers/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/react-context-and-providers.md",
+    "path": "core/extension-development/react-context-and-providers.md",
+    "bytes": 6780,
+    "lines": 139,
+    "chars": 4864,
+    "h1": "React Context 与 Provider"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "客户端"
+    ],
+    "title": "客户端服务",
+    "href": "/zh-CN/core/extension-development/client-services/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/client-services.md",
+    "path": "core/extension-development/client-services.md",
+    "bytes": 8053,
+    "lines": 167,
+    "chars": 5971,
+    "h1": "客户端服务"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "客户端"
+    ],
+    "title": "客户端多语言",
+    "href": "/zh-CN/core/extension-development/localization/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/localization.md",
+    "path": "core/extension-development/localization.md",
+    "bytes": 6498,
+    "lines": 146,
+    "chars": 4556,
+    "h1": "客户端多语言"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "服务端"
+    ],
+    "title": "路由与 HTTP 接口",
+    "href": "/zh-CN/core/extension-development/server-apis/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/server-apis.md",
+    "path": "core/extension-development/server-apis.md",
+    "bytes": 10997,
+    "lines": 246,
+    "chars": 8241,
+    "h1": "路由与 HTTP 接口"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "服务端"
+    ],
+    "title": "业务服务与 ServiceProvider",
+    "href": "/zh-CN/core/extension-development/server-services/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/server-services.md",
+    "path": "core/extension-development/server-services.md",
+    "bytes": 7326,
+    "lines": 130,
+    "chars": 4994,
+    "h1": "业务服务与 ServiceProvider"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "服务端"
+    ],
+    "title": "后台任务与执行器",
+    "href": "/zh-CN/core/extension-development/background-jobs/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/background-jobs.md",
+    "path": "core/extension-development/background-jobs.md",
+    "bytes": 11407,
+    "lines": 199,
+    "chars": 8239,
+    "h1": "后台任务与执行器"
+  },
+  {
+    "group": "开发插件",
+    "folders": [
+      "服务端"
+    ],
+    "title": "服务端多语言",
+    "href": "/zh-CN/core/extension-development/server-localization/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/server-localization.md",
+    "path": "core/extension-development/server-localization.md",
+    "bytes": 3868,
+    "lines": 62,
+    "chars": 2004,
+    "h1": "服务端多语言"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "数据库资源与迁移",
+    "href": "/zh-CN/core/extension-development/database-and-migrations/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/database-and-migrations.md",
+    "path": "core/extension-development/database-and-migrations.md",
+    "bytes": 8576,
+    "lines": 171,
+    "chars": 5744,
+    "h1": "数据库资源与迁移"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "命令行扩展",
+    "href": "/zh-CN/core/extension-development/extend-command-line/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/extend-command-line.md",
+    "path": "core/extension-development/extend-command-line.md",
+    "bytes": 6807,
+    "lines": 155,
+    "chars": 5129,
+    "h1": "命令行扩展"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "插件 Skill",
+    "href": "/zh-CN/core/extension-development/write-plugin-skills/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/write-plugin-skills.md",
+    "path": "core/extension-development/write-plugin-skills.md",
+    "bytes": 6562,
+    "lines": 111,
+    "chars": 3998,
+    "h1": "插件 Skill"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "测试与验证",
+    "href": "/zh-CN/core/extension-development/testing-and-verification/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/testing-and-verification.md",
+    "path": "core/extension-development/testing-and-verification.md",
+    "bytes": 5855,
+    "lines": 94,
+    "chars": 3179,
+    "h1": "测试与验证"
+  },
+  {
+    "group": "开发插件",
+    "folders": [],
+    "title": "构建与发布",
+    "href": "/zh-CN/core/extension-development/publish-plugin/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/publish-plugin.md",
+    "path": "core/extension-development/publish-plugin.md",
+    "bytes": 12540,
+    "lines": 241,
+    "chars": 7128,
+    "h1": "构建与发布"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "框架概览",
+    "href": "/zh-CN/core/framework/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/overview.md",
+    "path": "core/framework/overview.md",
+    "bytes": 4618,
+    "lines": 48,
+    "chars": 2542,
+    "h1": "框架概览"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "客户端运行时",
+    "href": "/zh-CN/core/framework/runtime/client/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/client.md",
+    "path": "core/framework/runtime/client.md",
+    "bytes": 2650,
+    "lines": 48,
+    "chars": 1632,
+    "h1": "客户端运行时"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "服务端运行时",
+    "href": "/zh-CN/core/framework/runtime/server/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/server.md",
+    "path": "core/framework/runtime/server.md",
+    "bytes": 2664,
+    "lines": 47,
+    "chars": 1556,
+    "h1": "服务端运行时"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "命令行运行时",
+    "href": "/zh-CN/core/framework/runtime/cli/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/cli.md",
+    "path": "core/framework/runtime/cli.md",
+    "bytes": 2516,
+    "lines": 40,
+    "chars": 1446,
+    "h1": "命令行运行时"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "应用启动与生命周期",
+    "href": "/zh-CN/core/framework/runtime/lifecycle/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/lifecycle.md",
+    "path": "core/framework/runtime/lifecycle.md",
+    "bytes": 2672,
+    "lines": 41,
+    "chars": 1538,
+    "h1": "应用启动与生命周期"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "插件加载与扩展",
+    "href": "/zh-CN/core/framework/runtime/plugins/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/plugins.md",
+    "path": "core/framework/runtime/plugins.md",
+    "bytes": 2536,
+    "lines": 37,
+    "chars": 1444,
+    "h1": "插件加载与扩展"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "运行时与扩展机制"
+    ],
+    "title": "React Provider 的注册与挂载",
+    "href": "/zh-CN/core/framework/runtime/react-providers/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/runtime/react-providers.md",
+    "path": "core/framework/runtime/react-providers.md",
+    "bytes": 2350,
+    "lines": 48,
+    "chars": 1546,
+    "h1": "React Provider 的注册与挂载"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "服务容器与依赖注入"
+    ],
+    "title": "服务容器",
+    "href": "/zh-CN/core/framework/services/container/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/services/container.md",
+    "path": "core/framework/services/container.md",
+    "bytes": 2352,
+    "lines": 45,
+    "chars": 1430,
+    "h1": "服务容器"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "服务容器与依赖注入"
+    ],
+    "title": "服务契约与 Token",
+    "href": "/zh-CN/core/framework/services/tokens/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/services/tokens.md",
+    "path": "core/framework/services/tokens.md",
+    "bytes": 2338,
+    "lines": 41,
+    "chars": 1306,
+    "h1": "服务契约与 Token"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "服务容器与依赖注入"
+    ],
+    "title": "ServiceProvider 与服务生命周期",
+    "href": "/zh-CN/core/extension-development/service-provider/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/extension-development/service-provider.md",
+    "path": "core/extension-development/service-provider.md",
+    "bytes": 8833,
+    "lines": 209,
+    "chars": 6563,
+    "h1": "ServiceProvider 与服务生命周期"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "服务容器与依赖注入"
+    ],
+    "title": "前后端服务接入",
+    "href": "/zh-CN/core/framework/services/integration/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/services/integration.md",
+    "path": "core/framework/services/integration.md",
+    "bytes": 6853,
+    "lines": 126,
+    "chars": 4485,
+    "h1": "前后端服务接入"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "HTTP 与 API"
+    ],
+    "title": "路由与请求上下文",
+    "href": "/zh-CN/core/framework/http/routes/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/http/routes.md",
+    "path": "core/framework/http/routes.md",
+    "bytes": 2433,
+    "lines": 39,
+    "chars": 1519,
+    "h1": "路由与请求上下文"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "HTTP 与 API"
+    ],
+    "title": "中间件",
+    "href": "/zh-CN/core/framework/http/middleware/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/http/middleware.md",
+    "path": "core/framework/http/middleware.md",
+    "bytes": 2448,
+    "lines": 43,
+    "chars": 1496,
+    "h1": "中间件"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "HTTP 与 API"
+    ],
+    "title": "请求校验与响应处理",
+    "href": "/zh-CN/core/framework/http/validation/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/http/validation.md",
+    "path": "core/framework/http/validation.md",
+    "bytes": 2666,
+    "lines": 53,
+    "chars": 1778,
+    "h1": "请求校验与响应处理"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "HTTP 与 API"
+    ],
+    "title": "Repository 数据接口",
+    "href": "/zh-CN/core/framework/http/repository-routes/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/http/repository-routes.md",
+    "path": "core/framework/http/repository-routes.md",
+    "bytes": 10167,
+    "lines": 178,
+    "chars": 6631,
+    "h1": "Repository 数据接口"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "HTTP 与 API"
+    ],
+    "title": "API Client",
+    "href": "/zh-CN/core/framework/http/api-client/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/http/api-client.md",
+    "path": "core/framework/http/api-client.md",
+    "bytes": 2875,
+    "lines": 55,
+    "chars": 1839,
+    "h1": "API Client"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "数据库概览",
+    "href": "/zh-CN/core/framework/database/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/overview.md",
+    "path": "core/framework/database/overview.md",
+    "bytes": 3955,
+    "lines": 57,
+    "chars": 2271,
+    "h1": "数据库概览"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "连接与数据库方言",
+    "href": "/zh-CN/core/framework/database/connections/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/connections.md",
+    "path": "core/framework/database/connections.md",
+    "bytes": 2717,
+    "lines": 49,
+    "chars": 1713,
+    "h1": "连接与数据库方言"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "数据表与字段",
+    "href": "/zh-CN/core/framework/database/schema/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/schema.md",
+    "path": "core/framework/database/schema.md",
+    "bytes": 7869,
+    "lines": 126,
+    "chars": 4985,
+    "h1": "数据表与字段"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "关系与关联",
+    "href": "/zh-CN/core/framework/database/relations/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/relations.md",
+    "path": "core/framework/database/relations.md",
+    "bytes": 6178,
+    "lines": 117,
+    "chars": 4066,
+    "h1": "关系与关联"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "Repository 与数据操作",
+    "href": "/zh-CN/core/framework/database/repositories/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/repositories.md",
+    "path": "core/framework/database/repositories.md",
+    "bytes": 2892,
+    "lines": 51,
+    "chars": 1822,
+    "h1": "Repository 与数据操作"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "过滤、排序与分页",
+    "href": "/zh-CN/core/framework/database/filtering-pagination/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/filtering-pagination.md",
+    "path": "core/framework/database/filtering-pagination.md",
+    "bytes": 3009,
+    "lines": 52,
+    "chars": 2057,
+    "h1": "过滤、排序与分页"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "关联查询",
+    "href": "/zh-CN/core/framework/database/association-queries/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/association-queries.md",
+    "path": "core/framework/database/association-queries.md",
+    "bytes": 2411,
+    "lines": 47,
+    "chars": 1455,
+    "h1": "关联查询"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "聚合与统计",
+    "href": "/zh-CN/core/framework/database/aggregation/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/aggregation.md",
+    "path": "core/framework/database/aggregation.md",
+    "bytes": 2419,
+    "lines": 50,
+    "chars": 1571,
+    "h1": "聚合与统计"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "事务",
+    "href": "/zh-CN/core/framework/database/transactions/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/transactions.md",
+    "path": "core/framework/database/transactions.md",
+    "bytes": 2739,
+    "lines": 47,
+    "chars": 1627,
+    "h1": "事务"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "数据库迁移",
+    "href": "/zh-CN/core/framework/database/migrations/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/migrations.md",
+    "path": "core/framework/database/migrations.md",
+    "bytes": 10845,
+    "lines": 168,
+    "chars": 6067,
+    "h1": "数据库迁移"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "初始数据",
+    "href": "/zh-CN/core/framework/database/seeds/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/seeds.md",
+    "path": "core/framework/database/seeds.md",
+    "bytes": 8100,
+    "lines": 134,
+    "chars": 4950,
+    "h1": "初始数据"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "数据库"
+    ],
+    "title": "查询输入与构造器",
+    "href": "/zh-CN/core/framework/database/query-inputs/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/database/query-inputs.md",
+    "path": "core/framework/database/query-inputs.md",
+    "bytes": 2531,
+    "lines": 45,
+    "chars": 1601,
+    "h1": "查询输入与构造器"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "缓存",
+    "href": "/zh-CN/core/framework/support/caching/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/support/caching.md",
+    "path": "core/framework/support/caching.md",
+    "bytes": 3502,
+    "lines": 62,
+    "chars": 2278,
+    "h1": "缓存"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "文件存储与驱动",
+    "href": "/zh-CN/core/framework/file-storage/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/file-storage.md",
+    "path": "core/framework/file-storage.md",
+    "bytes": 4081,
+    "lines": 74,
+    "chars": 2601,
+    "h1": "文件存储与驱动"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "后台任务与调度"
+    ],
+    "title": "后台任务与执行器",
+    "href": "/zh-CN/core/framework/background/jobs/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/background/jobs.md",
+    "path": "core/framework/background/jobs.md",
+    "bytes": 4169,
+    "lines": 72,
+    "chars": 2787,
+    "h1": "后台任务与执行器"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "后台任务与调度"
+    ],
+    "title": "周期调度",
+    "href": "/zh-CN/core/framework/background/scheduling/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/background/scheduling.md",
+    "path": "core/framework/background/scheduling.md",
+    "bytes": 2772,
+    "lines": 56,
+    "chars": 1766,
+    "h1": "周期调度"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "消息队列",
+    "href": "/zh-CN/core/framework/background/queues/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/background/queues.md",
+    "path": "core/framework/background/queues.md",
+    "bytes": 3590,
+    "lines": 55,
+    "chars": 2154,
+    "h1": "消息队列"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "实时通信"
+    ],
+    "title": "实时消息与主题订阅",
+    "href": "/zh-CN/core/framework/realtime/topics/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/realtime/topics.md",
+    "path": "core/framework/realtime/topics.md",
+    "bytes": 4361,
+    "lines": 82,
+    "chars": 2841,
+    "h1": "实时消息与主题订阅"
+  },
+  {
+    "group": "框架",
+    "folders": [
+      "实时通信"
+    ],
+    "title": "WebSocket 协议与适配",
+    "href": "/zh-CN/core/framework/realtime/websocket/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/realtime/websocket.md",
+    "path": "core/framework/realtime/websocket.md",
+    "bytes": 2614,
+    "lines": 35,
+    "chars": 1486,
+    "h1": "WebSocket 协议与适配"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "日志",
+    "href": "/zh-CN/core/framework/support/logging/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/support/logging.md",
+    "path": "core/framework/support/logging.md",
+    "bytes": 3238,
+    "lines": 61,
+    "chars": 1946,
+    "h1": "日志"
+  },
+  {
+    "group": "框架",
+    "folders": [],
+    "title": "ID 生成",
+    "href": "/zh-CN/core/framework/support/ids/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/framework/support/ids.md",
+    "path": "core/framework/support/ids.md",
+    "bytes": 2741,
+    "lines": 44,
+    "chars": 1627,
+    "h1": "ID 生成"
+  },
+  {
+    "group": "应用架构",
+    "folders": [],
+    "title": "概览",
+    "href": "/zh-CN/core/architecture/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/overview.md",
+    "path": "core/architecture/overview.md",
+    "bytes": 2462,
+    "lines": 33,
+    "chars": 900,
+    "h1": "概览"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多门户"
+    ],
+    "title": "创建多门户应用",
+    "href": "/zh-CN/core/architecture/multi-portal/create-app/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-portal/create-app.md",
+    "path": "core/architecture/multi-portal/create-app.md",
+    "bytes": 6087,
+    "lines": 106,
+    "chars": 3201,
+    "h1": "创建多门户应用"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多门户"
+    ],
+    "title": "开发门户",
+    "href": "/zh-CN/core/architecture/multi-portal/develop/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-portal/develop.md",
+    "path": "core/architecture/multi-portal/develop.md",
+    "bytes": 16099,
+    "lines": 332,
+    "chars": 9613,
+    "h1": "开发门户"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多门户"
+    ],
+    "title": "门户访问与权限",
+    "href": "/zh-CN/core/architecture/multi-portal/access/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-portal/access.md",
+    "path": "core/architecture/multi-portal/access.md",
+    "bytes": 4413,
+    "lines": 56,
+    "chars": 1897,
+    "h1": "门户访问与权限"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多门户"
+    ],
+    "title": "管理门户",
+    "href": "/zh-CN/core/architecture/multi-portal/manage/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-portal/manage.md",
+    "path": "core/architecture/multi-portal/manage.md",
+    "bytes": 4368,
+    "lines": 70,
+    "chars": 1848,
+    "h1": "管理门户"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "概述",
+    "href": "/zh-CN/core/architecture/multi-app/overview/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/overview.md",
+    "path": "core/architecture/multi-app/overview.md",
+    "bytes": 4273,
+    "lines": 61,
+    "chars": 1835,
+    "h1": "概述"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "快速开始",
+    "href": "/zh-CN/core/architecture/multi-app/quickstart/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/quickstart.md",
+    "path": "core/architecture/multi-app/quickstart.md",
+    "bytes": 5620,
+    "lines": 114,
+    "chars": 3088,
+    "h1": "快速开始"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "应用开发",
+    "href": "/zh-CN/core/architecture/multi-app/development/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/development.md",
+    "path": "core/architecture/multi-app/development.md",
+    "bytes": 4384,
+    "lines": 77,
+    "chars": 2402,
+    "h1": "应用开发"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "管理模板与应用实例",
+    "href": "/zh-CN/core/architecture/multi-app/management/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/management.md",
+    "path": "core/architecture/multi-app/management.md",
+    "bytes": 5290,
+    "lines": 85,
+    "chars": 2020,
+    "h1": "管理模板与应用实例"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "统一登录与访问授权",
+    "href": "/zh-CN/core/architecture/multi-app/single-sign-on/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/single-sign-on.md",
+    "path": "core/architecture/multi-app/single-sign-on.md",
+    "bytes": 5432,
+    "lines": 70,
+    "chars": 2298,
+    "h1": "统一登录与访问授权"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "接入独立应用",
+    "href": "/zh-CN/core/architecture/multi-app/external-apps/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/external-apps.md",
+    "path": "core/architecture/multi-app/external-apps.md",
+    "bytes": 5275,
+    "lines": 74,
+    "chars": 2287,
+    "h1": "接入独立应用"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "从单应用迁移",
+    "href": "/zh-CN/core/architecture/multi-app/migration/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/migration.md",
+    "path": "core/architecture/multi-app/migration.md",
+    "bytes": 7388,
+    "lines": 97,
+    "chars": 2920,
+    "h1": "从单应用迁移"
+  },
+  {
+    "group": "应用架构",
+    "folders": [
+      "多应用"
+    ],
+    "title": "部署与运维",
+    "href": "/zh-CN/core/architecture/multi-app/deployment/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/architecture/multi-app/deployment.md",
+    "path": "core/architecture/multi-app/deployment.md",
+    "bytes": 6134,
+    "lines": 86,
+    "chars": 3086,
+    "h1": "部署与运维"
+  },
+  {
+    "group": "部署与运维",
+    "folders": [],
+    "title": "选择部署方式",
+    "href": "/zh-CN/core/deployment/choose-a-deployment-method/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/deployment/choose-a-deployment-method.md",
+    "path": "core/deployment/choose-a-deployment-method.md",
+    "bytes": 3928,
+    "lines": 45,
+    "chars": 1796,
+    "h1": "选择部署方式"
+  },
+  {
+    "group": "部署与运维",
+    "folders": [],
+    "title": "发布应用新版本",
+    "href": "/zh-CN/core/deployment/publish-app-release/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/deployment/publish-app-release.md",
+    "path": "core/deployment/publish-app-release.md",
+    "bytes": 1947,
+    "lines": 31,
+    "chars": 909,
+    "h1": "发布应用新版本"
+  },
+  {
+    "group": "部署与运维",
+    "folders": [],
+    "title": "使用 Docker 部署",
+    "href": "/zh-CN/core/tutorials/deploy-with-docker/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/tutorials/deploy-with-docker.md",
+    "path": "core/tutorials/deploy-with-docker.md",
+    "bytes": 15361,
+    "lines": 374,
+    "chars": 8819,
+    "h1": "使用 Docker 部署"
+  },
+  {
+    "group": "部署与运维",
+    "folders": [],
+    "title": "使用 PM2 部署（app-installer）",
+    "href": "/zh-CN/core/tutorials/deploy-with-app-installer/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/tutorials/deploy-with-app-installer.md",
+    "path": "core/tutorials/deploy-with-app-installer.md",
+    "bytes": 14619,
+    "lines": 330,
+    "chars": 8006,
+    "h1": "使用 PM2 部署（app-installer）"
+  },
+  {
+    "group": "部署与运维",
+    "folders": [],
+    "title": "升级 NocoBase Core",
+    "href": "/zh-CN/core/developing-apps/upgrade-nocobase-core/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/developing-apps/upgrade-nocobase-core.md",
+    "path": "core/developing-apps/upgrade-nocobase-core.md",
+    "bytes": 13162,
+    "lines": 223,
+    "chars": 6360,
+    "h1": "升级 NocoBase Core"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "API 参考",
+    "href": "/zh-CN/core/reference/api/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/api.md",
+    "path": "core/reference/api.md",
+    "bytes": 12257,
+    "lines": 171,
+    "chars": 8403,
+    "h1": "API 参考"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "命令行参考",
+    "href": "/zh-CN/core/reference/cli/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/cli.md",
+    "path": "core/reference/cli.md",
+    "bytes": 8659,
+    "lines": 156,
+    "chars": 5271,
+    "h1": "命令行参考"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "配置项参考",
+    "href": "/zh-CN/core/reference/configuration/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/configuration.md",
+    "path": "core/reference/configuration.md",
+    "bytes": 9752,
+    "lines": 162,
+    "chars": 6264,
+    "h1": "配置项参考"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "项目目录与文件约定",
+    "href": "/zh-CN/core/reference/project-conventions/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/project-conventions.md",
+    "path": "core/reference/project-conventions.md",
+    "bytes": 8116,
+    "lines": 138,
+    "chars": 5638,
+    "h1": "项目目录与文件约定"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "核心包与工具包索引",
+    "href": "/zh-CN/core/reference/packages/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/packages.md",
+    "path": "core/reference/packages.md",
+    "bytes": 9986,
+    "lines": 98,
+    "chars": 8096,
+    "h1": "核心包与工具包索引"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "插件索引",
+    "href": "/zh-CN/core/reference/plugins/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/plugins.md",
+    "path": "core/reference/plugins.md",
+    "bytes": 9448,
+    "lines": 72,
+    "chars": 7058,
+    "h1": "插件索引"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "数据库支持与版本兼容",
+    "href": "/zh-CN/core/reference/compatibility/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/compatibility.md",
+    "path": "core/reference/compatibility.md",
+    "bytes": 7372,
+    "lines": 120,
+    "chars": 4298,
+    "h1": "数据库支持与版本兼容"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "使用不同数据库创建应用",
+    "href": "/zh-CN/core/reference/database-configuration/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/database-configuration.md",
+    "path": "core/reference/database-configuration.md",
+    "bytes": 11388,
+    "lines": 267,
+    "chars": 6938,
+    "h1": "使用不同数据库创建应用"
+  },
+  {
+    "group": "参考",
+    "folders": [],
+    "title": "常见问题",
+    "href": "/zh-CN/core/reference/faq/",
+    "md_url": "https://docs.nocobase.com/zh-CN/core/reference/faq.md",
+    "path": "core/reference/faq.md",
+    "bytes": 6958,
+    "lines": 73,
+    "chars": 3302,
+    "h1": "常见问题"
+  }
+]
